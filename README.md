@@ -57,10 +57,6 @@ and visit `http://localhost:8000`.
 - The sign-up form uses the `netlify` attribute, so submissions are only collected when the site is deployed on Netlify. On other hosts (such as GitHub Pages) the form is display-only.
 - Omnifood is not a real company. All content, prices and testimonials are placeholders.
 
-## Credits
-
-This project was built while following the course [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann. The design and content belong to the course author; this repository is for learning and portfolio purposes only.
-
 ## Author
 
 Kanan Sofiyev
